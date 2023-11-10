@@ -1,0 +1,99 @@
+.ant-card {
+    margin-bottom: 24px;
+    border-radius: 0px;
+}
+
+.card-content {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+h5.ant-typography {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    padding-right: 40px;
+}
+
+.release-date {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(130, 126, 126, 1);
+    margin-bottom: 7px;
+}
+
+.genres-wrapper {
+    flex-wrap: wrap;
+}
+
+.genre {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.65);
+    margin-bottom: 7px;
+}
+
+.description {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 228px;
+}
+
+.rating-value {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    border: 2px solid rgba(233, 209, 0, 1);
+    border-radius: 50%;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.rating-stars {
+    font-size: 16px;
+    width: 239px;
+    display: flex;
+    justify-content: center;
+    vertical-align: bottom;
+}
+
+.low {
+    border-color: #E90000;
+}
+
+.average {
+    border-color: #E97E00;
+}
+
+.high {
+    border-color: #E9D100;
+}
+
+.very-high {
+    border-color: #66E900;
+}

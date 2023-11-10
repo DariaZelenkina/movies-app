@@ -1,0 +1,16 @@
+.ant-space {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.ant-space-item input {
+    width: 938px;
+    height: 40px;
+}
+
+.ant-pagination {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 17px;
+}

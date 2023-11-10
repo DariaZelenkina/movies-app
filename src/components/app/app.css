@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	background-color: #F8F8F8;
+	font-family: Inter;
+}
+#root {
+  width: 1010px;
+	background-color: white;
+	margin: 0 auto;
+}
+
+.ant-tabs {
+  margin-bottom: 20px;
+}
